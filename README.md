@@ -1,1 +1,1 @@
-App Hosted Link: https://treebenjsp.netlify.app/
+websiteHosted Link: https://treebenjsp.netlify.app/
